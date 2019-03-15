@@ -1,4 +1,4 @@
-## [Preview](https://pwosin.github.io/simple-landing-page-3/)
+## [Preview](https://pwosin.github.io/landing-page/)
       
 ## simple-landing-page
     
