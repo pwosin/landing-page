@@ -76,7 +76,7 @@ header .navbar .nav-link:hover { color: #fff; text-decoration: none; border-bott
 
 .services p:nth-child(3) { font-size: 12px; text-transform: none; font-weight: 300; }
 
-.services h3 { font-size: 18px; color: #fff; text-transform: uppercase; padding-top: 30px; font-weight: 500px; }
+.services h3 { font-size: 18px; color: #fff; text-transform: uppercase; padding-top: 30px; font-weight: 500; }
 
 .services .vertical-left { margin: 0 auto; text-align: center; border-left: 2px solid #bebebe; height: 210px; text-align: center; }
 
@@ -162,7 +162,7 @@ header .navbar .nav-link:hover { color: #fff; text-decoration: none; border-bott
 
 .pucharse h2 { font-size: 30px; font-weight: 700; text-transform: uppercase; padding-bottom: 5px; }
 
-.pucharse h3 { font-size: 14px; font-weight: 400px; }
+.pucharse h3 { font-size: 14px; font-weight: 400; }
 
 .pucharse h4 { font-weight: 700; font-size: 30px; margin-bottom: 0; }
 
@@ -206,7 +206,7 @@ header .navbar .nav-link:hover { color: #fff; text-decoration: none; border-bott
 
 .facts h3 { font-size: 48px; color: #b88b58; font-weight: 700; margin: 0; }
 
-.facts h4 { color: #fff; font-size: 18px; text-transform: uppercase; font-weight: 600px; }
+.facts h4 { color: #fff; font-size: 18px; text-transform: uppercase; font-weight: 600; }
 
 .facts span { font-size: 30px; color: #7e7e7e; font-weight: 700; }
 
